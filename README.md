@@ -1,5 +1,5 @@
 # Blank-Theme
-A blank WordPress starter theme with only the essentials: an empty index.php file and a basic style.css file.
+A blank WordPress starter theme with only the essentials: an empty index.php file, a basic style.css file and a basic functions.php file.
 
 
 ## Features
